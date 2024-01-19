@@ -1,0 +1,11 @@
+name: APITest
+version: 0.0.1
+api-version: 1.20
+main: org.domi.APITest
+
+depend:
+  - CatFish
+
+commands:
+  test:
+    aliases: ["테스트"]
